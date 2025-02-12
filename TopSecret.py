@@ -1,2 +1,2 @@
-TopSecret = "ACMI-AP-Love1"
-SECRET_KEY1 = "secretkey123"
+TopSecret = "shhhhhhhhh"
+SECRET_KEY1 = "shhhhhhhh"
